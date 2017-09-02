@@ -1,0 +1,25 @@
+{
+  "name": "api-rate-limit",
+  "version": "1.0.0",
+  "description": "rate limit api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topzerzar/api-rate-limit.git"
+  },
+  "keywords": [
+    "ratelimit",
+    "security",
+    "radis",
+    "api"
+  ],
+  "author": "weerapon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topzerzar/api-rate-limit/issues"
+  },
+  "homepage": "https://github.com/topzerzar/api-rate-limit#readme"
+}
