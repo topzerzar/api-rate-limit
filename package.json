@@ -4,6 +4,7 @@
   "description": "rate limit api",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/topzerzar/api-rate-limit/issues"
   },
-  "homepage": "https://github.com/topzerzar/api-rate-limit#readme"
+  "homepage": "https://github.com/topzerzar/api-rate-limit#readme",
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "express": "^4.15.4",
+    "micro": "^8.0.4"
+  }
 }
